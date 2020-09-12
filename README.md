@@ -1,5 +1,6 @@
 # Introduction_to_python
-These are my resources to review the introduction to python.
+این صفحه مربوط به کارگاه آموزش پایتون هست.
 
-هنوز کسی چیزی نپرسیده؟
-سوالی دارید بپرسید:)
+هنوز کسی چیزی نپرسیده:)
+سوالی دارید خوش حال می‌شم با من در میون بذارید!
+m.mehrani14@gmail.com
